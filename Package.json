@@ -1,0 +1,16 @@
+1 {
+2  "name": "magsj",
+3  "version": "6.9.9",
+4  "description": "my bot",
+5  "main": "index.js",
+6  "scripts": {
+7    "start": "node index.js",
+8    "test": "echo \"Error: no test specified\" && exit 1"
+9  },
+10  "author": "maxme",
+11  "license": "MIT",
+12  "dependencies": {
+13   "discord.js": "latest"
+14
+15  }
+16 }
